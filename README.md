@@ -53,8 +53,6 @@
 
 ###
 
-###
-
 <h2 align="left">My Stats 🔥</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u53rr007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,4 +60,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=u53rr007&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/u53rr007/u53rr007/output/snake.svg" alt="Snake animation" />
-###
