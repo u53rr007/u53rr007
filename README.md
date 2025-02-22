@@ -44,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
-
 ###
 
 <div align="left">
@@ -62,4 +61,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=u53rr007&theme=dark)](https://git.io/streak-stats)
 
+<img src="https://raw.githubusercontent.com/u53rr007/u53rr007/output/snake.svg" alt="Snake animation" />
 ###
