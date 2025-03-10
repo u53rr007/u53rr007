@@ -55,7 +55,7 @@
 
 <h2 align="left">My Stats 🔥</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u53rr007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=u53rr007" alt="u53rr007" /></a> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=u53rr007&theme=dark)](https://git.io/streak-stats)
 
