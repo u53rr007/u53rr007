@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Huynh Khoa, aka u53rr007. I'm a SOC intern with a passion for SOC management and CTF enthusiasm.</p>
+<p align="left">My name is Huynh Khoa, aka u53rr007. I'm a SOC intern and CTF enthusiasm.</p>
 
 <div align="center">
   <img height="200" src="https://avatars.githubusercontent.com/u/165979681?s=400&u=4ecbd6556aeb645cf2d853a33325c2fd0aec905b&v=4"  />
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since grade 10 (2020). <br>😄 Pronouns: He/Him. <br>📚 I'm currently learning: Information Assurance at FPT University HCMC campus.<br>🎯 Goals: SOC Tier 1.<br>🔭 I’m currently working on: Updating... <br>📄 Know about my experiences: Updating...<br> 📝 I regularly write articles on: Updating...<br>📫 How to reach me: Gmail: Updating....<br>🎲 Fun fact: Only three things are infinite: 1. Universe 2. Human Stupidity 3. Winrar free trial 😀.</p>
+<p align="left">✨ Creating bugs since grade 10 (2020). <br>😄 Pronouns: He/Him. <br>📚 I'm currently learning: Information Assurance at FPT University HCMC campus.<br>🎯 Goals: SOC Tier 1.<br>🔭 I’m currently working on: Updating... <br>📄 Know about my experiences: Updating...<br> 📝 I regularly write articles on: Updating...<br>📫 How to reach me: Proton: U53RR007@protonmail.com<br>🎲 Fun fact: Only three things are infinite: 1. Universe 2. Human Stupidity 3. Winrar free trial 😀.</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/u53rr007/count.svg?"  />
